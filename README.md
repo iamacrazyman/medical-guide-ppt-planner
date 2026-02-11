@@ -1,0 +1,2 @@
+# medical-guide-ppt-planner
+将医学诊疗指南PDF文件转换为NotebookLM生成ppt时使用的PPT规划Markdown文件的专业工作流。当用户需要从医学指南PDF制作PPT规划文件时使用此技能，包括：提取指南内容、生成PPT的文字部分（页数由用户指定）、优化文字内容、检查错别字、优化视觉效果描述等完整流程。
